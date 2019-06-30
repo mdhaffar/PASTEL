@@ -1,4 +1,4 @@
-# PASTEL 
+# PASTEL corpus
 An open corpora for Automatic Speech Recognition research and development.
 The databases consist of around 10 hours.
 
