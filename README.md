@@ -11,6 +11,7 @@ see WAV files [here](https://cloud-ic2.univ-lemans.fr/s/nxbzMGXe2tcpjC3)
 see Transcription files 
 
 ## Keywords
+see keywords annotation 
 
 
 For the use of PASTEL corpus, please consider the following paper :
