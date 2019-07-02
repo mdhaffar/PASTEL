@@ -5,13 +5,13 @@ All the videos were manually transcribed by an expert human annotator using the 
 The databases consist of around 10 hours.
 
 ## WAV files
-see WAV files [here](https://cloud-ic2.univ-lemans.fr/s/nxbzMGXe2tcpjC3)
+See WAV files [here](https://cloud-ic2.univ-lemans.fr/s/nxbzMGXe2tcpjC3)
 
 ## Transcription files
-see Transcription files 
+See Transcription files 
 
 ## Keywords
-see keywords annotation 
+See keywords annotation 
 
 
 For the use of PASTEL corpus, please consider the following paper :
