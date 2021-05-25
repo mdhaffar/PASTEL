@@ -4,14 +4,4 @@ The data was collected from the project CominOpenCourseware (COCo) which provide
 All the videos were manually transcribed by an expert human annotator using the Transcriber tool.
 The databases consist of around 10 hours.
 
-## WAV files
-See WAV files [here](https://cloud-ic2.univ-lemans.fr/s/nxbzMGXe2tcpjC3)
-
-## Transcription files
-See Transcription files 
-
-## Keywords
-See keywords annotation 
-
-
-For the use of PASTEL corpus, please consider the following paper :
+Link to the dat [here](https://github.com/nicolashernandez/anr-pastel-data)
