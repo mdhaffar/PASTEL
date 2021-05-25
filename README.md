@@ -4,4 +4,4 @@ The data was collected from the project CominOpenCourseware (COCo) which provide
 All the videos were manually transcribed by an expert human annotator using the Transcriber tool.
 The databases consist of around 10 hours.
 
-Link to the dat [here](https://github.com/nicolashernandez/anr-pastel-data)
+Link to the data [here](https://github.com/nicolashernandez/anr-pastel-data) (https://github.com/nicolashernandez/anr-pastel-data)
